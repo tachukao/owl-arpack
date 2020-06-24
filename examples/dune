@@ -1,0 +1,3 @@
+(executables
+ (names symmetric normal complex_normal)
+ (libraries owl_arpack owl))

@@ -1,0 +1,4 @@
+(library
+ (name owl_arpack)
+ (public_name owl-arpack)
+ (libraries owl arpack))
